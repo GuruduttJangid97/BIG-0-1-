@@ -5,7 +5,7 @@ To get rid down this issue we use BIG O(1).
 
 
 # Rule Book
-Rule 1: Worst Case
-Rule 2: Remove Constants
-Rule 3: Different terms for inputs
-Rule 4: Drop non dominants
+Rule 1: Worst Case<br/>
+Rule 2: Remove Constants<br/>
+Rule 3: Different terms for inputs<br/>
+Rule 4: Drop non dominants<br/>
