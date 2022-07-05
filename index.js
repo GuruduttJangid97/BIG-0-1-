@@ -1,7 +1,6 @@
 // Exercise Big O(1);
 
-const nemo = ["Nemo"];
-const everyone = ['dory','bruce','marlin','gil','bloar','nigel','squirt','darla','hank','nemo'];
+const everyone = ['dory','bruce','marlin','gil','bloar','nigel','squirt','darla','hank','nemo']; //Array Initialization
 
 
 function findNemo(array){
@@ -15,4 +14,5 @@ function findNemo(array){
 }
 
 findNemo(everyone); 
-// Whenver function execute it checks the value and find out where the element exist, If value exist at first place of array it execute only one times so we can say that Big O(1);
+// Whenver function execute it checks the value and find out where the element exist, 
+//If value exist at first place of array it execute only one times so we can say that Big O(1);
